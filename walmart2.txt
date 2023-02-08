@@ -1,3 +1,3 @@
 Nombre: José Alberto Sanchez Nava
-Puesto: Analista ServiceDesk
-Edad: 22 años
+Puesto: Coordinador ServiceDesk
+Edad: 23 años

@@ -1,3 +1,3 @@
 Nombre: Francisco Lopez Campos
-Puesto: Analista ServiceDesk
-Edad: 23 años
+Puesto: Subgerente ServiceDesk
+Edad: 26 años
